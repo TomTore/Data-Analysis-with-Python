@@ -4,3 +4,6 @@ In this assignment, you are a Data Analyst working at a Real Estate Investment T
 
 You will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on. 
 A template notebook is provided and the objective is to complete the ten questions. Some hints to the questions are given in the template notebook.
+
+This notebook is provided by © IBM Corporation 2020. All rights reserved.
+....the solution are provided by me :)
