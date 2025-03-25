@@ -6,4 +6,4 @@ You will analyze and predict housing prices using attributes or features such as
 A template notebook is provided and the objective is to complete the ten questions. Some hints to the questions are given in the template notebook.
 
 This notebook is provided by © IBM Corporation 2020. All rights reserved.
-....the solution are provided by me :)
+....the answers are provided by me :)
